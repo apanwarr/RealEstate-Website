@@ -2,7 +2,7 @@
             <div class="top-header bg-secondary">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8">
+                        <div class="col-md-8"> 
                             <ul class="top-contact list-text-white  d-table">
                                 <li><a href="#"><i class="fas fa-phone-alt text-success mr-1"></i>+91 989-736-4776</a></li>
                                 <li><a href="#"><i class="fas fa-envelope text-success mr-1"></i>ashishpanwar413@.com</a></li>
