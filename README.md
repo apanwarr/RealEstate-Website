@@ -1,6 +1,8 @@
 # XenonStack-Technical-Task_2
 
-🏠 Realstate Website
+🏠 Realstate Website   
+
+Live Demo : https://realestategeu.kesug.com
 
 📜 Description
 Realstate Website is a dynamic platform for buying and selling properties such as houses and flats. Built using HTML, CSS, JavaScript, PHP, and MySQL, this website offers users the ability to search for properties, create listings, and manage their profiles. The website is designed to provide a seamless user experience, allowing users to connect with administrators and manage their accounts effectively.
