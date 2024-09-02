@@ -40,7 +40,7 @@ MySQL: For managing the database of user information and property listings.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/realstate-website.git
+git clone (https://github.com/apanwarr/XenonStack-Technical-Task_2.git)
 Navigate to the project directory:
 
 bash
@@ -54,7 +54,7 @@ Set up the Database:
 
 Open phpMyAdmin.
 Create a new database named realstate.
-Import the SQL file (database.sql) from the project directory into the database.
+Import the SQL file (realestatephp.sql) from the project directory into the database.
 Run the Website:
 
 Place the project folder in the htdocs directory of XAMPP.
@@ -62,11 +62,4 @@ Open your browser and go to http://localhost/RealEstate-PHP/.
 
 
 Thank You!
-
-
-
-
-
-
-
 
