@@ -12,7 +12,7 @@
 		$recentReviews   	= $('.recent-review'),
 		$dropdown  			= $('.dropdown-toggle'),			// 13. Our Partner Logos Slider Auto
 		$contact			= $('#contact-form');
-	
+	 
 	function handlePreloader() {
 		if($('.page-loader').length){
 			$('.page-loader').delay(500).fadeOut(500);
