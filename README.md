@@ -1,5 +1,3 @@
-# XenonStack-Technical-Task_2
-
 🏠 Realstate Website   
 
 Live Demo : https://realestategeu.kesug.com
