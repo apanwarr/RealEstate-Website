@@ -40,7 +40,7 @@ MySQL: For managing the database of user information and property listings.
 Clone the repository:
 bash
 Copy code
-git clone (https://github.com/apanwarr/XenonStack-Technical-Task_2.git)
+git clone (https://github.com/apanwarr/RealEstate-Website.git)
 Navigate to the project directory:
 
 bash
